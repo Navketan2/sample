@@ -1,0 +1,27 @@
+.Box{
+    border: 2px solid black;
+    height: 633px;
+    box-shadow: 1px 1px 4px 4px blueviolet;
+    background-color: aqua;
+    background-image: url(C:\Pramod Gaikwad\Images\123.jpg);
+}
+
+.Name{
+    font-family: fantasy;
+    margin: auto;
+    text-align: center;
+    font-size: xxx-large;
+    text-shadow: 2px 2px 10px burlywood;
+}
+.List{
+    position: relative;
+    left: 206px;
+    top: 101px;
+    font-size: xx-large;
+}
+.List2{
+     position: relative;
+     left: 693px;
+     top: -45px;
+     font-size: xx-large;
+}

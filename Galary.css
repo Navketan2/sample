@@ -1,0 +1,32 @@
+.I1{
+    border: 5px solid black;
+    height: 564px;
+    width: 1330px;
+}
+.IMG1{
+    height: 367px;
+    position: relative;
+    left: 130px;
+    border: 2px solid black;
+    border-radius: 11px;
+    top: 10px;
+}
+.IMG2{
+    position: relative;
+    bottom: 180px;
+    height: 172px;
+    left: 376px;
+    border: 2px solid black;
+    border-radius: 11px;
+
+}
+.IMG3{
+    height: 367px;
+    position: relative;
+    top: -737px;
+    left: 660px;
+    border: 2px solid;
+    border-radius: 11px;
+    width: 500px;
+
+}

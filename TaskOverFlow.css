@@ -1,0 +1,155 @@
+
+
+
+
+
+.navbar{
+
+
+}
+ .navlist{
+    list-style: none;
+    /* background-color: burlywood; */
+    color: chocolate;
+    margin: -12px;
+    font-family: fantasy;
+    padding-left: 169px;
+    text-align: center;
+    margin-top: 121px;
+    
+}   
+.link{
+  display: inline-block;
+  margin-left: -25px;
+  padding: 4px;
+  margin-right: 8px;
+}
+
+ a{
+    color:rgb(210, 30, 156);
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+
+}   
+.navbar .navlist .link a:hover{
+    background-color: blue;
+    color: white;
+}
+
+#Lama{
+    float: right;
+}
+#l1{
+    margin-right: -30px;
+    padding-right: 40px;
+    
+}
+.B1{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.Web{
+ text-align: center;
+ font-size: xx-large;
+ font-family: fantasy;
+ background-color: white;
+ border: 10%;
+}
+.Box{
+        
+   
+   
+   }
+   .Text{ 
+    text-align: center;
+    font-family: fantasy;
+    position: relative;
+    top: 27px;
+    right: 117px;
+    font-size: xxx-large;
+    color: white;
+    text-shadow: 2px 3px 4px black
+    
+
+   }
+   .img{
+    float: left;
+    position: relative;
+    top: -70px;
+    left: 143px;
+    height: 173px;
+    /* border: 2px solid black;
+    box-shadow: 0px 0px 4px 4px white; */
+   }
+   .Map{
+    position: relative;
+    /* bottom: -778px; */
+    border: 2px solid black;
+    border-width: 6px;
+    width: 1338px;
+    left: -8px;
+    background-color: ghostwhite;
+    height: 302px;
+   }
+   .Google{
+        position: relative;
+        top: 7px;
+        left: 135px;
+        height: 290px;
+    }
+    .Address{
+        margin: auto;
+        text-align: center;
+        font-family: serif;
+        font-size: xx-large;
+        position: relative;
+        top: -202px;
+        left: 246px;
+        text-shadow: 2px 3px 4px blueviolet;
+    }
+    .ILink{
+        right: 385px;
+        position: relative;
+        height: 215px;
+        width: 215px;
+        top: 20px;
+        border: 4px solid white;
+        border-radius: 10px;
+        border-bottom-left-radius: 71px;
+        border-top-right-radius: 35px;
+
+    }
+    .Ilink2{
+        position: relative;
+        height: 215px;
+        width: 215px;
+        top: -209px;
+        right: 114px;
+        border: 4px solid white;
+        border-radius: 10px;
+        border-bottom-left-radius: 71px;
+        border-top-right-radius: 35px;
+    }
+    .ILink3{
+        position: relative;
+        height: 215px;
+        width: 215px;
+        top: -438px;
+        left: 156px;
+        border: 4px solid white;
+        border-radius: 10px;
+        border-bottom-left-radius: 71px;
+        border-top-right-radius: 35px;
+    }
+    .P1{
+        position: relative;
+        top: -303px;
+        font-size: xx-large;
+        font-family: fantasy;
+        right: 119px;
+        color: aliceblue;
+        text-shadow: 2px 3px 4px blueviolet;
+
+    }

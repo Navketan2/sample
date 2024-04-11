@@ -1,0 +1,57 @@
+.Box{
+    border: 3px solid goldenrod;
+    height: 500px;
+    width: 1350px;
+    background-color: black;
+}
+.C1{
+    font-size: x-large;
+    font-family: fantasy;
+    margin: auto;
+    margin-left: 20px;
+    margin-top: 21px;
+    color: chartreuse;
+}
+.C2{
+    font-size: xxx-large;
+    font-family: fantasy;
+    margin: auto;
+    margin-left: 20px;
+    margin-top: -4px;
+    color: white;
+    text-shadow: 2px 2px 4px red;
+
+}
+.I1{
+    border: 2px solid white;
+    position: relative;
+    left: 30px;
+    top: 23px;
+    
+}
+.G1{
+    color: white;
+    margin: auto;
+    margin-left: 218px;
+    margin-top: -44px;
+}
+.I2{
+    height: 81px;
+    position: relative;
+    top: 45px;
+    left: 51px;
+    border: 2px solid white;
+    box-shadow: 2px 3px 4px 4px white;
+}
+.G2{
+    color: white;
+    margin: auto;
+    margin-left: 218px;
+    margin-top: -10px;
+
+}
+.V1{
+    height: 500px;
+    width: 1350px;
+    background-repeat: repeat;
+}
